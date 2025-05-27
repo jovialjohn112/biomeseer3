@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/biomeseer3/static/css/main.323d7611.css",
+    "main.js": "/biomeseer3/static/js/main.08603477.js",
+    "static/js/239.7fe6d4a0.chunk.js": "/biomeseer3/static/js/239.7fe6d4a0.chunk.js",
+    "static/js/213.6a052868.chunk.js": "/biomeseer3/static/js/213.6a052868.chunk.js",
+    "static/js/455.3df9a94d.chunk.js": "/biomeseer3/static/js/455.3df9a94d.chunk.js",
+    "index.html": "/biomeseer3/index.html",
+    "main.323d7611.css.map": "/biomeseer3/static/css/main.323d7611.css.map",
+    "main.08603477.js.map": "/biomeseer3/static/js/main.08603477.js.map",
+    "239.7fe6d4a0.chunk.js.map": "/biomeseer3/static/js/239.7fe6d4a0.chunk.js.map",
+    "213.6a052868.chunk.js.map": "/biomeseer3/static/js/213.6a052868.chunk.js.map",
+    "455.3df9a94d.chunk.js.map": "/biomeseer3/static/js/455.3df9a94d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.08603477.js"
+  ]
+}
